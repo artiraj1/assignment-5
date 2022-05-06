@@ -48,8 +48,8 @@ table {
 }
 h1 {
   text-align: center;
-  font-size: 64px;
-  padding: 32px 180px;
+  font-size: 40px;
+  padding: 20px;
 }
 hr {
   width: 500px;
@@ -68,7 +68,7 @@ section {
   height: 100px;
   background-color: rgb(218, 250, 212);
   display: inline-block;
-  margin: 0 auto;
+  margin-top: 20px;
   border: 20px solid rgb(173, 216, 230);
   outline: 10px solid black;
   box-shadow: 0 0 0 20px rgb(237, 127, 128);
